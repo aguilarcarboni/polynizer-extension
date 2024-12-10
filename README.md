@@ -1,13 +1,31 @@
-Dynamic:
-5 chords - 1.03ms
-10 chords - 1.41ms
-15 chords - 1.64ms
-20 chords - 3.82ms
-All chords - 9.97ms
+# Optimization Algorithms Comparison
 
-Brute force:
-5 chords - 4.8ms
-10 chords - 16.94ms
-15 chords - 944.74ms
-20 chords - 66441.15ms
-All chords - DID NOT RUN IN TIME
+## Design and Analysis of Algorithms
+
+### Description 
+
+This project compares and analyzes different optimization algorithms, focusing on their performance, efficiency, and practical applications. The implementation includes various optimization techniques and provides empirical results to demonstrate their effectiveness in solving complex computational problems.
+
+### Running the project
+Verify that you have Python 3.10 or higher installed.
+```bash
+python --version
+```
+
+Install the dependencies
+```bash
+pip install -r requirements.txt
+```
+
+Run the project
+```bash
+python main.py
+```
+
+### Documentation
+For detailed documentation, please refer to the preliminary [report](./docs/preliminary_report.pdf) and final [report](./docs/final_report.pdf).
+
+### Results 
+Scored a ??? in the project.
+
+### created by [@aguilarcarboni](https://github.com/aguilarcarboni/)
