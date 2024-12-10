@@ -28,4 +28,4 @@ For detailed documentation, please refer to the preliminary [report](./docs/prel
 ### Results 
 Scored a ??? in the project.
 
-### created by [@aguilarcarboni](https://github.com/aguilarcarboni/)
+### created by [@aguilarcarboni](https://github.com/aguilarcarboni/), Daniel Vega and Adrian Quiros
