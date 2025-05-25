@@ -26,6 +26,6 @@ python main.py
 For detailed documentation, please refer to the preliminary [report](./docs/preliminary_report.pdf) and final [report](./docs/final_report.pdf).
 
 ### Results 
-Scored a 98% in the project.
+- Scored a 98% in the project.
 
 ### created by [@aguilarcarboni](https://github.com/aguilarcarboni/), Daniel Vega and Adrian Quiros
