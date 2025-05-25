@@ -6,7 +6,7 @@
 
 This project compares and analyzes different optimization algorithms, focusing on their performance, efficiency, and practical applications. The implementation includes various optimization techniques and provides empirical results to demonstrate their effectiveness in solving complex computational problems.
 
-### Running the project
+### Compiling and Running
 Verify that you have Python 3.10 or higher installed.
 ```bash
 python --version
